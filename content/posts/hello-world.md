@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
-date: 2019-04-04T12:28:30+07:00
+date: 2019-04-04T13:30:17+07:00
 draft: true
 ---
 
-Thử nghiệm hugo!!!
+Thử nghiệm xem sao!
